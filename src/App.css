@@ -1,0 +1,7 @@
+section .c{
+    width: 90px;
+    aspect-ratio: 5/2;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    /* background-blend-mode: color-burn; */
+}
